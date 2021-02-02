@@ -17,7 +17,7 @@
 </p>
 
 <p align='center'>
-  Desenvolvedor Front End.
+  💻 Desenvolvedor Front End<br/><br/>
 </p>
 
 <p align='center'>
