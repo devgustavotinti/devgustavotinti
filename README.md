@@ -14,7 +14,7 @@
   &nbsp;&nbsp;
    <a href="https://instagram.com/tintiluiz">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> 
-</p>
+</p><br>
 
 <h3 align='center'>
   💻 Desenvolvedor Front End
