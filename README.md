@@ -4,9 +4,9 @@
 
 ---
 
-<p align='center'>
+<h3 align='center'>
   Siga-me nas redes sociais.
-</p>
+</h3>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/luiz-gustavo-tinti-668894205/">
@@ -16,9 +16,9 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> 
 </p>
 
-<p align='center'>
-  💻 Desenvolvedor Front End<br/><br/>
-</p>
+<h3 align='center'>
+  💻 Desenvolvedor Front End
+</h3>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
