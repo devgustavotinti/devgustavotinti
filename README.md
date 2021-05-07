@@ -9,7 +9,7 @@
 </h3>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/luiz-gustavo-tinti-668894205/">
+  <a href="https://www.linkedin.com/in/gustavo-tinti-668894205/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   &nbsp;&nbsp;
    <a href="https://instagram.com/tintiluiz">
