@@ -9,10 +9,10 @@
 </h3>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/gustavo-tinti-668894205/](https://www.linkedin.com/in/gustavotinti/">
+  <a href="https://www.linkedin.com/in/gustavotinti" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   &nbsp;&nbsp;
-   <a href="https://instagram.com/tinti.ads">
+   <a href="https://instagram.com/tinti.ads" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> 
 </p><br>
 
